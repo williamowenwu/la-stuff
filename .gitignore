@@ -1,0 +1,5 @@
+attendance/__pycache__/
+attendance/absent.txt
+attendance/names.txt
+attendance/test.py
+attendance/constants.py
